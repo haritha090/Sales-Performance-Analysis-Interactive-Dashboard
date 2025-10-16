@@ -8,4 +8,4 @@ The core of the project involves two components:
 
 The dashboard provides stakeholders with actionable insights by tracking key performance indicators (KPIs) such as Total Sales, Quantity Sold, and Sales Trends over time. It segments performance by Customer Demographics (e.g., Marital Status, City), Products, and Marketers, enabling quick identification of top performers and areas needing improvement.
 # Dashboard
-!(image alt)[]
+!(image alt)[https://github.com/haritha090/Sales-Performance-Analysis-Interactive-Dashboard/blob/main/Screenshot%20(153).png?raw=true]
